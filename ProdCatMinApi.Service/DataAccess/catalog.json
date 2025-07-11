@@ -1,0 +1,56 @@
+[
+  {
+    "productId": 1,
+    "name": "Power drill",
+    "brand": "Ryobi",
+    "price": 49
+  },
+  {
+    "productId": 2,
+    "name": "Steel Ruler",
+    "brand": "Stanley",
+    "price": 9
+  },
+  {
+    "productId": 3,
+    "name": "Cordless angle grinder",
+    "brand": "Ryobi",
+    "price": 59
+  },
+  {
+    "productId": 4,
+    "name": "Power drill",
+    "brand": "Makita",
+    "price": 87
+  },
+  {
+    "productId": 5,
+    "name": "Power drill",
+    "brand": "Bosch",
+    "price": 68
+  },
+  {
+    "productId": 6,
+    "name": "Angle grinder",
+    "brand": "Ozito",
+    "price": 45
+  },
+  {
+    "productId": 7,
+    "name": "Angle grinder",
+    "brand": "Milwaukee",
+    "price": 98
+  },
+  {
+    "productId": 8,
+    "name": "Power drill",
+    "brand": "Milwaukee",
+    "price": 88
+  },
+  {
+    "productId": 9,
+    "name": "Power drill",
+    "brand": "Ozito",
+    "price": 39
+  }
+]
